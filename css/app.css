@@ -1,0 +1,63 @@
+/*******************************************++-+++++++++++++++++++++++++++++++++++++
+general
+********************************************/
+.wrap{
+  width:95%;
+  margin: auto;
+}
+/**************************************
+navigation
+**************************************/
+.navigation{
+  background-color:rgb(202, 156, 0);
+  text-align: center;
+  padding: 2em 0;
+}
+
+.navigation a{
+  color: black;
+}
+
+/************************************
+header
+****************************************/
+.header img{
+  height: 2em;
+  width: 2em;
+}
+
+.name{
+ font-size: 3em;
+
+}
+
+
+/****************************************
+main
+*****************************************/
+.main{
+  padding:2em 0;
+  font-size: 2em;
+}
+
+.main h3{
+  color: black;
+}
+
+
+/***************************************
+footer
+****************************************/
+.footer{
+  background-color: grey;
+  text-align: center;
+  padding: 2em 0;
+}
+.footer img{
+  height: 3em;
+  width: 3em;
+}
+
+.footer a{
+  color:black;
+}
